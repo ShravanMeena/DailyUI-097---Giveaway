@@ -15,7 +15,7 @@ export default function App() {
       <div className="rightMain">
         <Header />
         <div className="box">
-          <h4>Enter for a chance</h4>
+          <h4>Enter for a chance to</h4>
           <h1>
             Win a <span>Fossil Watch</span> from Astrobelt Time
           </h1>
